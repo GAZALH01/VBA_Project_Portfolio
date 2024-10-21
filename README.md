@@ -17,3 +17,7 @@ Many datasets contain dates stored as unformatted 7- or 8-digit strings (e.g. '1
 -If the cell is empty, the script loops to the next cell.
 -It then inserts slashes to convert the string to the date format 'DD/MM/YYYY'.
 -The string is then converted into an Excel-recognized date value.
+
+
+
+![VBA Script Demo](./assets/vba_script_demo.jpg)
