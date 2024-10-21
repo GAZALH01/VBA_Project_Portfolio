@@ -18,6 +18,8 @@ Many datasets contain dates stored as unformatted 7- or 8-digit strings (e.g. '1
 -It then inserts slashes to convert the string to the date format 'DD/MM/YYYY'.
 -The string is then converted into an Excel-recognized date value.
 
+## Demo
 
 https://raw.githubusercontent.com/GAZALH01/VBA_Project_Portfolio/3dd9a128e090595af434a444ec6cbce985d61363/assets/vba_script_demo.JPG
+https://raw.githubusercontent.com/GAZALH01/VBA_Project_Portfolio/3dd9a128e090595af434a444ec6cbce985d61363/assets/vba_script_demo_ii.JPG
 
