@@ -41,3 +41,10 @@ This project includes a VBA script for calculating FIFO (First In, First Out) in
 ## How the VBA Script Works
 
 The script calcalates the total FIFO valuation based on the quantity and cost of items in inventory.
+
+## Download
+
+- [Download FIFO VBA Module](https://github.com/GAZALH01/VBA_Project_Portfolio/blob/main/FIFO/FIFO_Valuation.bas)
+
+## License
+
