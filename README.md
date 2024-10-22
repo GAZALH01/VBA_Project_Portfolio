@@ -47,4 +47,4 @@ The script calcalates the total FIFO valuation based on the quantity and cost of
 - [Download FIFO VBA Module](https://github.com/GAZALH01/VBA_Project_Portfolio/blob/main/FIFO/FIFO_Valuation.bas)
 
 ## License
-
+Licensed under the MIT License
